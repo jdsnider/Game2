@@ -1,0 +1,1 @@
+set_direction_speed(choose(120,180,220), 12);

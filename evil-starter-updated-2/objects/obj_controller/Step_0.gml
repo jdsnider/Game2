@@ -1,0 +1,1 @@
+if (obj_player.health_ < 1) room_goto(rm_lose);
